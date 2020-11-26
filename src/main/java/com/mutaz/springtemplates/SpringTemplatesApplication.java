@@ -1,13 +1,13 @@
-package com.mutaz.springbootjsp;
+package com.mutaz.springtemplates;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringBootJspApplication {
+public class SpringTemplatesApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringBootJspApplication.class, args);
+		SpringApplication.run(SpringTemplatesApplication.class, args);
 	}
 
 }

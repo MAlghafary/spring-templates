@@ -9,11 +9,11 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.mutaz</groupId>
-	<artifactId>spring-boot-jsp</artifactId>
+	<artifactId>spring-templates</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
 	<name>spring-boot-jsp</name>
-	<description>Template for Spring boot application using JSP </description>
+	<packaging>war</packaging>
+	<description>Template for Spring boot with jsp </description>
 
 	<properties>
 		<java.version>1.8</java.version>
@@ -24,7 +24,6 @@
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-web</artifactId>
 		</dependency>
-
 
 		<dependency>
 			<groupId>javax.servlet</groupId>

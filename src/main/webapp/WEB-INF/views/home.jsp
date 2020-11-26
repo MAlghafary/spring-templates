@@ -7,7 +7,7 @@
     <title>Spring Security</title>
 </head>
 <body>
-<h1>Spring Boot With JSP </h1>
+<h1>Spring Security Basic Boot in-memory DB Sample</h1>
 <h2>${msg}</h2>
 </body>
 </html>
